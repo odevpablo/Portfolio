@@ -46,8 +46,7 @@ const ProjectsSection = () => {
       description: "Minha landing page é um espaço digital dedicado a apresentar meu trabalho, minha trajetória profissional e meus projetos mais impactantes. Criada com um design moderno e funcional, ela é estruturada para destacar minha expertise e facilitar a conexão com potenciais clientes e parceiros.",
       image: "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa24e2stztd1g72gvk23h.png",
       technologies: ["React", "Vite","TypeScript","n8n"],
-      githubUrl: "https://github.com/odevpablo/Script-Haversine",
-      liveUrl: "https://victorgabriel.netlify.app/"
+      githubUrl: "https://github.com/odevpablo/Script-Haversine"
     },
   ];
 
