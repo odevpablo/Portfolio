@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-**URL**: [Adicione aqui o URL do seu portfólio]
+**URL**: https://portdevpablo.netlify.app/
 
 Este é o meu portfólio pessoal, onde compartilho meus projetos, habilidades e formas de contato. Siga-me nas redes sociais: **[@odevpablo](https://github.com/odevpablo)**.
 
