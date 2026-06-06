@@ -15,23 +15,23 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold text-[#393E46] mb-4">
-             Transformo desafios técnicos em soluções escaláveis e eficientes
+              Transformo desafios técnicos em soluções escaláveis e eficientes
             </h3>
             <p className="text-gray-600 leading-relaxed">
-             Minha jornada na tecnologia começou com o curso de Análise e Desenvolvimento de Sistemas, ampliado por diversos bootcamps especializados e, atualmente, um curso avançado que aprofunda ainda mais minhas competências práticas e estratégicas.
+              Minha jornada na tecnologia consolidou-se através do curso de Análise e Desenvolvimento de Sistemas, potencializada por especializações contínuas em dados e automação avançada. Atuo de forma estratégica no desenvolvimento de software e na arquitetura de soluções digitais modernas.
             </p>
             <p className="text-gray-600 leading-relaxed">
-             Ao longo da minha trajetória, atuei em projetos que não apenas exigiram habilidades técnicas, mas também um olhar atento à eficiência, à experiência do usuário e à escalabilidade. 
-             </p>
+              Ao longo da minha trajetória, tenho focado na criação de APIs de alta performance, arquiteturas SaaS, bots de automação (RPA) e na integração de inteligência artificial. Minha abordagem une o desenvolvimento de sistemas à análise de dados para eliminar gargalos e impulsionar a eficiência operacional.
+            </p>
             <div className="flex flex-wrap gap-3 mt-6">
-              {['Python', 'C#', 'Node.js','Angular', 'React', 'PostgreSQL', 'Google Cloud','N8N','Power Automate'].map((skill) => (
+              {['Python', '.NET', 'JavaScript', 'React', 'Next.js', 'PostgreSQL', 'BigQuery', 'n8n', 'Power Automate', 'Power BI'].map((skill) => (
                 <span key={skill} className="px-4 py-2 bg-[#393E46] text-[#F8EEDF] rounded-full text-sm font-medium">
                   {skill}
                 </span>
               ))}
             </div>
           </div>
-          
+
           <div className="relative">
             <div className="w-80 h-80 mx-auto bg-[#393E46] rounded-full flex items-center justify-center">
               <div className="w-72 h-72 bg-white rounded-full flex items-center justify-center">

@@ -11,11 +11,11 @@ const HeroSection = () => {
       <div className="relative text-center px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
         <h1 className="text-5xl md:text-7xl font-bold text-gray mb-6 animate-fade-in">
           <span className="bg-gradient-to-r from-[#DFD0B8 ] to-[#273F4F] bg-clip-text text-transparent">
-            ODEVPABLO
+            Pablo Caique
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-600 mb-8 animate-fade-in-delay">
-          Análista e desenvolvedor de sistemas
+          Desenvolvedor
         </p>
         <button
           onClick={() => document.getElementById('about')?.scrollIntoView({ behavior: 'smooth' })}
